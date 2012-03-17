@@ -1,5 +1,5 @@
 #Why?#
-###_Or jump to [the wiki](http://github.com/dianakimball/mentoring/wiki)_###
+####_or jump to [the wiki](http://github.com/dianakimball/mentoring/wiki)_####
 
 In college, I studied history. I researched amateur magician communities at the turn of the twentieth century and read all about Soviet department stores. But mostly, I was fascinated by the history of technology. And halfway through college, I looked up and realized that history was happening around me: that the internet was transforming *this* moment, and that I wanted to be a part of it.
 
